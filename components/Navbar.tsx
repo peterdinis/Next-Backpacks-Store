@@ -20,12 +20,12 @@ export default function Navbar() {
           <ul className="navbar-nav">
             <li className="nav-item">
               <a className="nav-link fs-4 active" aria-current="page" href="/">
-                Domov
+                Home
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fs-4" href="/all">
-                Batohy
+              <a className="nav-link fs-4" href="/products">
+                Backpacks
               </a>
             </li>
             <li className="nav-item">
